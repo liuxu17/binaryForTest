@@ -16,7 +16,6 @@ func selectionSort(arr []int, n int) {
 			}
 			helper.Swap(arr, i, minIndex)
 		}
-
 	}
 
 }
